@@ -2,4 +2,5 @@
 Practice collaboration 
 
 Author: Lorenzo Zecca
-BU
+Boston University
+
